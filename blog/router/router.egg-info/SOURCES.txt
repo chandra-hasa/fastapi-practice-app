@@ -1,0 +1,5 @@
+setup.py
+router.egg-info/PKG-INFO
+router.egg-info/SOURCES.txt
+router.egg-info/dependency_links.txt
+router.egg-info/top_level.txt
